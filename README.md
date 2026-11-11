@@ -72,7 +72,7 @@ curl -X GET 'https://sol-rust.onrender.com/get_airdrop' \
 ### Run Locally
 
 ```bash
-git clone https://github.com/prince981620/sol-rust
+git clone https://github.com/princedotrs/sol-rust
 cd sol-rust
 cargo run
 ```
@@ -106,7 +106,7 @@ Feel free to open issues or PRs to add more endpoints (e.g., transaction status,
 
 ## 📜 License
 
-MIT © [Prince Yadav](https://github.com/prince981620)
+MIT © [Prince Yadav](https://github.com/princedotrs)
 
 ---
 
